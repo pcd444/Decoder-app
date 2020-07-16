@@ -39,13 +39,13 @@
   font-size: 200%
 }
 .step-item-complete{
-  background-color: red;
+  background-color: blue;
 }
 .step-item-in-progress{
-  background-color: pink;
+  background-color: purple;
 }
 .step-item-not-started{
-  background-color: powderblue;
+  background-color: rgb(200, 25, 25);
 }
 
 @keyframes App-logo-spin {

@@ -8,7 +8,7 @@ import App from './App.js'
 
 
 
-const element = <DemoApp/>
+const element = <App/>
 ReactDOM.render(element,
   document.getElementById('root')
 );
